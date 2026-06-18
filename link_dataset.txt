@@ -1,0 +1,8 @@
+link_dataset
+Dataset 1 (CNN from Scratch):
+Nama: CIFAR-10
+Link: https://www.cs.toronto.edu/~kriz/cifar.html
+
+Dataset 2 (Transfer Learning):
+Nama: Cats vs Dogs (Filtered)
+Link: https://storage.googleapis.com/tensorflow-1-public/course2/cats_and_dogs_filtered.zip
